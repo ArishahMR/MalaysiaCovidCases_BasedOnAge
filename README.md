@@ -10,4 +10,4 @@ This project visualizes COVID-19 cases in Malaysia from 2020 to 2024, segmented 
 - Elderly
 
 ## Data Source
-Used dataset by the Ministry of Health of Malaysia in their GitHub Repository: <a href="[epidemic/cases_malaysia.csv](https://github.com/MoH-Malaysia/covid19-public/blob/3caaec6c0367a8764f398fce6d001e9039f20b95/epidemic/cases_malaysia.csv)">MOH Covid GitHub Repo</a>
+Used dataset by the Ministry of Health of Malaysia in their GitHub Repository: <a href="[https://github.com/MoH-Malaysia/covid19-public/blob/3caaec6c0367a8764f398fce6d001e9039f20b95/epidemic/cases_malaysia.csv(https://github.com/MoH-Malaysia/covid19-public/blob/main/epidemic/cases_malaysia.csv)](https://github.com/MoH-Malaysia/covid19-public/blob/main/epidemic/cases_malaysia.csv)">MOH Covid GitHub Repo</a>
